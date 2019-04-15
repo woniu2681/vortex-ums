@@ -1,2 +1,1 @@
-# Initial page
-
+项目本身属于云平台1.1版本（即前后端分离版本），前身为hw-cloud-management云平台1.0版本（即jsp版本），现在改名为hw-cloud-ums
